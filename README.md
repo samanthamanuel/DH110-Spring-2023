@@ -8,6 +8,8 @@
 
 ##### assignment01
 
+[go to 10 Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/)
+
 UX project for DH110
 
 
