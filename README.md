@@ -6,7 +6,7 @@ My project focuses on preserving family traditions through recipe and  food conn
 For many Filipinos like me, my most cherished inheritance or heirlooms are the recipes that are passed down orally in the kitchen. Whenever I cook my Filipino food, it transforms into a moment of cultural-culinary, intergenerational connection– ever-changing rituals revised by each new generation. It helps me maintain a rootedness in my own cultural ancestry while living here in America, so I was curious to see if any apps existed to help preserve or share family recipes.  In this assignment, I conducted a heuristic evaluation of two apps peripheral to the goals of this project.
 
 ## Competitor A: Remento 
-![Remento homepage](insert here)
+![Remento homepage](remento.jpg)
 View the full site here: [Remento](https://www.remento.co/)
 
 #### Background Information
@@ -19,7 +19,7 @@ _Overall Evaluation_: Overall, this app is very aesthetically pleasing to look a
 
 
 ## Competitor  B: Bublup
-![Bublup homepage](insert here)
+![Bublup homepage](bublup.jpg)
 View the full site here: [Bublup](https://www.bublup.com/recipe-sharing-app/ )
 
 #### Background Information
